@@ -1,4 +1,4 @@
-/* https://trueuo.com Home to the Heritage shard.*/
+/* Dan of the Heritage Shard (https://trueuo.com) */
 using Server.Engines.BulkOrders;
 
 namespace Server.Items
