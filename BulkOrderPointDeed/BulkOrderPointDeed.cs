@@ -6,7 +6,7 @@ namespace Server.Items
     public class BulkOrderPointDeed : Item
     {
         private const int _Points = 100; // Set your points here.
-        private const BODType _CraftSkill = BODType.Smith; // Set skill type here. Example: BODType.Smith
+        private const BODType _CraftSkill = BODType.Tailor; // Set skill type here. Example: BODType.Tailor
 
         [Constructable]
         public BulkOrderPointDeed()
